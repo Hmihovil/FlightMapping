@@ -1,4 +1,4 @@
-/**Student id: 1504428
+/**
  * 
  * @author Chloe Flores
  */
